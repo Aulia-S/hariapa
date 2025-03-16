@@ -6,7 +6,7 @@ import Setting from './components/Setting'
 import Modal from './components/Modal'
 
 export default function Home() {
-  const [year, setYear] = useState<number>(2024)
+  const [year, setYear] = useState<number>(new Date().getFullYear())
 
   return (
     <main className='py-3'>
