@@ -1,3 +1,5 @@
+Hariapa is a calendar app that allowed you to mark event for certain date. Build with recent technologies like Next.js, TailwindCSS, and NextUI
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
